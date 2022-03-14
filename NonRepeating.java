@@ -6,7 +6,7 @@ import java.io.*;
 
 public class NonRepeating {
     public static void main(String[] args){
-        int[] arr ={2,3,4,3,4,2,6,1};
+        int[] arr ={2,3,4,3,4,2,6};
 
         int un =0;
 
