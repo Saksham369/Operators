@@ -1,6 +1,7 @@
 package com.operators;
 
 public class ApowerB {
+    //Find the power of a number
     public static void main(String[] args){
         int power = 6;
         int base = 2;
